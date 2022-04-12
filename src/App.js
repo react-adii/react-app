@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I want to learn vue
+          I want to learn branch test 2
         </a>
       </header>
     </div>
