@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I am university Student.
+         Have a Nice Day!
         </a>
       </header>
     </div>
